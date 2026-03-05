@@ -1,6 +1,3 @@
-# AutoManagerPro
-Car showroom management system
-
 # AutoManager Pro 🚗
 ### Car Showroom Management System
 
